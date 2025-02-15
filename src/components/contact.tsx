@@ -18,7 +18,7 @@ export default function ContactPage() {
         transition={{ duration: 1, ease: 'easeOut' }}
         className='relative z-10 w-full max-w-4xl bg-gray-900/60 backdrop-blur-2xl rounded-3xl shadow-xl p-12 border border-gray-800'
       >
-        <h2 className='text-5xl font-extrabold text-center mb-10 text-transparent bg-clip-text bg-gradient-to-r from-cyan-100 to-cyan-500'>
+        <h2 className='text-3xl sm:text-5xl font-extrabold text-center mb-10 text-transparent bg-clip-text bg-gradient-to-r from-cyan-100 to-cyan-500'>
           {"Let's Connect"}
         </h2>
 
