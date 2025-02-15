@@ -17,7 +17,7 @@ export default function AIAgentsSection() {
         initial={{ opacity: 0, y: -20 }} 
         animate={{ opacity: 1, y: 0 }} 
         transition={{ duration: 0.8 }}
-        className="text-5xl font-extrabold mb-10 text-cyan-400"
+        className=" text-3xl sm:text-5xl font-extrabold mb-10 text-cyan-400"
       >
         Meet the AI Agents
       </motion.h2>
