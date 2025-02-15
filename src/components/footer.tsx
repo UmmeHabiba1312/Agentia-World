@@ -16,7 +16,7 @@ export default function FuturisticFooter() {
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
-          className="text-5xl font-extrabold tracking-wide text-transparent bg-clip-text bg-gradient-to-r text-white drop-shadow-lg"
+          className="text-3xl sm:text-5xl font-extrabold tracking-wide text-transparent bg-clip-text bg-gradient-to-r text-white drop-shadow-lg"
         >
           Agentia<span className="text-cyan-400">World</span>
         </motion.div>
