@@ -19,7 +19,7 @@ export default function ContactPage() {
         className='relative z-10 w-full max-w-4xl bg-gray-900/60 backdrop-blur-2xl rounded-3xl shadow-xl p-12 border border-gray-800'
       >
         <h2 className='text-5xl font-extrabold text-center mb-10 text-transparent bg-clip-text bg-gradient-to-r from-cyan-100 to-cyan-500'>
-          Let's Connect
+          {"Let's Connect"}
         </h2>
 
         <div className='grid grid-cols-1 md:grid-cols-2 gap-10'>
