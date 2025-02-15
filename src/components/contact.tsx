@@ -33,7 +33,7 @@ export default function ContactPage() {
             {[
               { icon: Mail, text: 'contact@agentiaworld.com', color: 'text-cyan-400' },
               { icon: Phone, text: '+123 456 7890', color: 'text-cyan-400' },
-              { icon: MapPin, text: 'Silicon Valley, CA', color: 'text-cyan-400' }
+              { icon: MapPin, text: 'Agentia World, AW', color: 'text-cyan-400' }
             ].map((info, index) => (
               <div 
                 key={index} 
