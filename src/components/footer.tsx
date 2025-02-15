@@ -23,7 +23,7 @@ export default function FuturisticFooter() {
 
         {/* Navigation Links with Hover Underline Effect */}
         <div className="mt-6 flex flex-wrap justify-center gap-8">
-          {["Home", "About", "Services", "AI Lab", "Contact"].map((link, index) => (
+          {["Home", "Agents", "Technology", "Pricing", "Contact"].map((link, index) => (
             <motion.a
               key={index}
               href={`#${link.toLowerCase()}`}
