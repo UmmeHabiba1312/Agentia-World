@@ -1,4 +1,4 @@
-"use client"; // ✅ Client Component banana zaroori hai
+"use client"; 
 
 import { useEffect } from "react";
 import { Geist, Geist_Mono } from "next/font/google";
