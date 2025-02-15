@@ -48,7 +48,7 @@ export default function PricingSection() {
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
-        className="text-4xl font-extrabold mb-6 text-cyan-400"
+        className="text-3xl sm:text-4xl font-extrabold mb-6 text-cyan-400"
       >
         Choose Your AI Plan
       </motion.h2>
