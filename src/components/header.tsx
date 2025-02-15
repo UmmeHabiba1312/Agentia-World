@@ -30,8 +30,9 @@ const Header = memo(function Header() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-white text-xl font-extrabold tracking-widest neon-text"
         >
-          <Link href="/" className="flex justify-center items-center text-cyan-100 tracking-wider">
+       <Link href="/" className="flex justify-center items-center text-cyan-100 tracking-wider">
        <Image height={50} width={50} src="/logo.png" alt="logo"/> AGENTIA </Link>
+        </motion.h1>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:flex gap-8">
